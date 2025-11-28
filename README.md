@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bitwise-Bandit
-- 👀 I’m interested in computers and programming
+-  Hi, I’m @Bitwise-Bandit
+-  I’m interested in computers and programming
 
 <!---
 Bitwise-Bandit/Bitwise-Bandit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
