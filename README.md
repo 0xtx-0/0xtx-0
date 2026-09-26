@@ -1,36 +1,49 @@
-Hey, I'm 0xtx-0 !
+# Hey, I'm 0xtx-0 !
 
 I like building things, breaking things, and figuring out how they work.
 
-I'm particularly interested in Linux, systems, security, and open source.
+I'm particularly interested in **Linux, systems, security, and open source**.
 
-What I'm into
+## What I'm Into
 
- Linux & NixOS
+-  Linux & NixOS
+-  Systems & low-level programming
+-  Reverse engineering & cryptography
+-  Learning by building
 
- Systems & low-level programming
+## Current Focus
 
-Reverse engineering & cryptography
+I'm currently exploring:
 
-Learning by building
+- `x86` assembly
+- Computer architecture
+- Reverse engineering
+- Systems programming
 
-Current focus
+## Tech
 
-I'm currently exploring X86-asm, computer architecture and Reverse engineering.
+**Languages**
 
-Tech
-Languages     → Lua · C/C++ · Python · Bash · Nix
-Systems       → Linux · NixOS
-Tools         → Git · jj · Neovim
-Interests     → Systems · Security · Open Source
+`Lua` · `C/C++` · `Python` · `Bash`
 
+**Systems**
 
+`Linux` · `NixOS`
 
-Philosophy
+**Tools**
 
-Perfecting oneself is as much unlearning as it is learning.
+`Git` · `jj` · `Neovim`
+
+**Interests**
+
+`Systems` · `Security` · `Open Source`
+
+## Philosophy
+
+> "Perfecting oneself is as much unlearning as it is learning."
 
 — Edsger Dijkstra
 
+---
 
-<sub>Thanks for stopping by.</sub>
+Thanks for stopping by!
